@@ -38,3 +38,17 @@ fields:
   type: text
   hidden: true
   default: post
+- type: image_gallery
+  name: zxcvxcvxcv
+  label: zxcvxcvxcv
+  description: xzcvcxv
+  default:
+  - "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
+  - "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
+  - "/uploads/2018/02/17/bridge3.jpg"
+  - "/uploads/2018/02/17/bridge.jpg"
+  - "/uploads/2017/11/13/iwk-logo.png"
+  - "/uploads/2017/11/13/innovation-pei-logo.png"
+  - "/uploads/2017/11/13/biotech.png"
+  - "/uploads/2017/11/13/stem.png"
+  - "/uploads/2018/02/17/college-building.jpg"
